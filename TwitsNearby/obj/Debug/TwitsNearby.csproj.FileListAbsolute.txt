@@ -1,0 +1,29 @@
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby\bin\TwitsNearby.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby\bin\TwitsNearby.pdb
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby\obj\Debug\TwitsNearby.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby\obj\Debug\TwitsNearby.pdb
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\obj\Debug\ResolveAssemblyReference.cache
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\bin\TwitsNearby.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\bin\TwitsNearby.pdb
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\bin\Dimebrain.TweetSharp.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\bin\Microsoft.Practices.Unity.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\bin\Microsoft.Practices.Unity.Interception.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\bin\Newtonsoft.Json.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\bin\Dimebrain.TweetSharp.xml
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\obj\Debug\TwitsNearby.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby\obj\Debug\TwitsNearby.pdb
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby\bin\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby\bin\Dimebrain.TweetSharp.xml
+C:\Projects\TwitsNearby\TwitsNearby\bin\TwitsNearby.dll
+C:\Projects\TwitsNearby\TwitsNearby\bin\TwitsNearby.pdb
+C:\Projects\TwitsNearby\TwitsNearby\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Projects\TwitsNearby\TwitsNearby\bin\Microsoft.Practices.Unity.dll
+C:\Projects\TwitsNearby\TwitsNearby\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Projects\TwitsNearby\TwitsNearby\bin\Dimebrain.TweetSharp.xml
+C:\Projects\TwitsNearby\TwitsNearby\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\TwitsNearby\TwitsNearby\obj\Debug\TwitsNearby.dll
+C:\Projects\TwitsNearby\TwitsNearby\obj\Debug\TwitsNearby.pdb

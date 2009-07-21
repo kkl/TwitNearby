@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="TwitsNearByModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2006/04/edm/ssdl">
+        <EntityContainer Name="TwitsNearByModelStoreContainer">
+          <EntitySet Name="Statuses" EntityType="TwitsNearByModel.Store.Statuses" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="Statuses">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="StatusID" Type="bigint" Nullable="false" />
+          <Property Name="Text" Type="nvarchar(max)" />
+          <Property Name="Latitude" Type="float" />
+          <Property Name="Longtitude" Type="float" />
+          <Property Name="Url" Type="nvarchar" MaxLength="100" />
+          <Property Name="GeoUrl" Type="nvarchar" MaxLength="100" />
+          <Property Name="CreateDT" Type="datetime"  StoreGeneratedPattern ="Computed"/>
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TwitsNearByModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+        <EntityContainer Name="TwitsNearByEntities">
+          <EntitySet Name="Statuses" EntityType="TwitsNearByModel.Statuses" />
+        </EntityContainer>
+        <EntityType Name="Statuses">
+          <Key>
+            <PropertyRef Name="ID" /></Key>
+          <Property Name="StatusID" Type="Int64" Nullable="false" />
+          <Property Name="Text" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="Latitude" Type="Double" />
+          <Property Name="Longtitude" Type="Double" />
+          <Property Name="Url" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="GeoUrl" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="CreateDT" Type="DateTime" Nullable="false" />
+          <Property Name="ID" Type="Guid" Nullable="false" /></EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+        <EntityContainerMapping StorageEntityContainer="TwitsNearByModelStoreContainer" CdmEntityContainer="TwitsNearByEntities">
+          <EntitySetMapping Name="Statuses">
+            <EntityTypeMapping TypeName="IsTypeOf(TwitsNearByModel.Statuses)">
+              <MappingFragment StoreEntitySet="Statuses">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="StatusID" ColumnName="StatusID" />
+                <ScalarProperty Name="Text" ColumnName="Text" />
+                <ScalarProperty Name="Latitude" ColumnName="Latitude" />
+                <ScalarProperty Name="Longtitude" ColumnName="Longtitude" />
+                <ScalarProperty Name="Url" ColumnName="Url" />
+                <ScalarProperty Name="GeoUrl" ColumnName="GeoUrl" />
+                <ScalarProperty Name="CreateDT" ColumnName="CreateDT" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2007/06/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram Name="TwitsDB">
+        <EntityTypeShape EntityType="TwitsNearByModel.Statuses" Width="1.5" PointX="0.75" PointY="0.75" Height="2.201315104166667" IsExpanded="true" /></Diagram></edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

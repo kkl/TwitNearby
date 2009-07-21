@@ -1,0 +1,39 @@
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.Tests.dll.config
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.Tests.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.Tests.pdb
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\bin\Debug\Dimebrain.TweetSharp.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.pdb
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\obj\Debug\TwitsNearby.Tests.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\obj\Debug\TwitsNearby.Tests.pdb
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.Tests.dll.config
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.Tests.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.Tests.pdb
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\bin\Debug\Dimebrain.TweetSharp.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.pdb
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\obj\Debug\TwitsNearby.Tests.dll
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\obj\Debug\TwitsNearby.Tests.pdb
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\Administrator\My Documents\Alphalley\TwitNearBy\TwitsNearby\TwitsNearby.Tests\bin\Debug\Dimebrain.TweetSharp.xml
+D:\TwitsNearby\Source\TwitsNearby\TwitsNearby.Tests\bin\Debug\Dimebrain.TweetSharp.xml
+C:\Projects\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.Tests.dll.config
+C:\Projects\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.Tests.dll
+C:\Projects\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.Tests.pdb
+C:\Projects\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.dll
+C:\Projects\TwitsNearby\TwitsNearby.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projects\TwitsNearby\TwitsNearby.Tests\bin\Debug\Dimebrain.TweetSharp.dll
+C:\Projects\TwitsNearby\TwitsNearby.Tests\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Projects\TwitsNearby\TwitsNearby.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\TwitsNearby\TwitsNearby.Tests\bin\Debug\Dimebrain.TweetSharp.xml
+C:\Projects\TwitsNearby\TwitsNearby.Tests\bin\Debug\TwitsNearby.pdb
+C:\Projects\TwitsNearby\TwitsNearby.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\TwitsNearby\TwitsNearby.Tests\obj\Debug\TwitsNearby.Tests.dll
+C:\Projects\TwitsNearby\TwitsNearby.Tests\obj\Debug\TwitsNearby.Tests.pdb

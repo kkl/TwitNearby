@@ -1,0 +1,436 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+	color:#646464;
+}
+
+body
+{
+	background: white;
+}
+
+form
+{
+    margin:0;
+    padding:0;
+}
+
+div
+{
+    font-size: 12px;
+}
+
+img
+{
+	border:none;
+}
+
+ul
+{
+	list-style:none;
+}
+
+a
+{
+	color:#5050D3;
+	text-decoration: none;
+	cursor:pointer;
+}
+a:hover
+{
+	color:#5050D3;
+}
+table
+{
+	border-collapse:collapse;
+	border: 0;
+}
+table.normalSpacing
+{
+    border-collapse:separate;
+    border:0px;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+
+.clearFix
+{
+	clear: both;
+}
+
+.hidden
+{
+    display:none;
+}
+
+.hasBackgroundColor
+{
+    background-color: White;
+}
+
+.fullWidth
+{
+    width:100%
+}
+
+.leftSpacer
+{
+    float:left;
+    width:5px;
+}
+
+.rightSpacer
+{
+    float:right;
+    width:5px;
+}
+
+
+/**font size**/
+.centerText
+{
+    text-align:center;
+}
+/**footer**/
+#Wrap {height: 100%;}
+body > #wrap {height: auto; min-height: 100%;}
+
+
+/**frame**/
+#MainContainer
+{
+	width : 800px;
+	margin: 0 auto;
+	background-color:white;
+}
+.headerFrame
+{
+	height : 150;
+	padding-bottom:15px;
+
+	/**background-color: grey;**/
+	/**background-color:orange;**/
+}
+
+.mainFrame
+{
+	/**height:200px;**/
+
+	background-color:white;
+	/**border:red thin solid;**/
+	
+	
+}
+.mainContent
+{
+	min-height:700px;
+	
+}
+.footerFrame
+{
+	/**width:925px;**/
+	margin-top:15px;
+	border-top:#666 1px solid;
+	height:50px;
+	padding-top:15px;
+
+}
+
+.rightFrame
+{
+	float:right;
+	width:290px;
+	height:700px;
+    margin-top:15px;
+	border-left: #666 1px solid;
+	
+	/**height:400px;**/
+}
+.leftFrame
+{
+	float:left;
+	width:500px;
+
+}
+
+.footerText
+{
+	float:left;
+	margin-right : 5px;
+	margin-left : 5px;
+	font-size: 15px;
+	color:#505050;
+	cursor:pointer;
+}
+
+.barFrame
+{
+	width:100%;
+	/**border:red thin solid;**/
+	height:50px;
+	padding-top:100px;
+	
+}
+
+/**Bar Iitem**/
+
+.barItem
+{
+	float:left;
+	height: 50px;
+	width : 130px;
+	/**border : green thin solid;**/
+	cursor:pointer;
+	
+}
+.barFont
+{
+	padding-top:20px;
+	padding-left:2px;
+	font-size:18px;
+	color:#505050;
+}
+.barFont:hover
+{
+	color:black;
+}
+.barBG
+{
+	height:5px;
+	position:relative;
+}
+
+
+#Bar0001
+{
+	background-color:#8A3546;
+}
+
+#Bar0002
+{
+	background-color:#E3AE33;
+}
+
+#Bar0003
+{
+	background-color:#40C11A;
+}
+#Bar0004
+{
+	background-color:#5050D3
+}
+
+/**right Frame**/
+#MapDiv
+{
+
+	/**width:300px;**/
+	/**height:250px;**/
+}
+
+
+/**tweets**/
+
+.tweetHR
+{
+	border-bottom:dashed thin grey;
+	height:1px;
+	margin-top:10px;
+	margin-bottom:30px;		
+
+}
+
+.tweetFrame
+{
+	
+	border-bottom:1px dashed #666;
+	padding :30px 0 30px 10px;
+	height:64px;
+	width:800px;
+}
+
+.tweetFrame:hover
+{
+	background : url(../Img/bg_blue.png) top left repeat;
+	
+}
+.tweetBottom
+{
+	float:left;
+	margin-left:30px;
+	width:650px;
+	height:16px;
+	
+}
+
+.tweetPic
+{
+	float:left;
+	height:48px;
+	width:48px;
+	border: 1px #666 solid;
+	
+}
+.tweetUsers
+{
+	font-size:20px;
+}
+
+.tweetBody
+{
+	float:left;
+	width: 650px;
+	height:48px;
+	margin-left:30px;
+	font-size:16px;
+	overflow:auto;
+	color:#646464;
+}	
+.tweetBody a
+{
+	color:#5050D3;
+}
+
+.tweetFav
+{
+	width:16px;
+	height:16px;
+	float:right;
+	background: url(../Img/icon_star_empty.gif) top left;
+	cursor:pointer;
+	margin-right:10px;
+}
+.tweetFav:hover
+{
+	background: url(../Img/icon_star_full.gif) top left;
+}
+
+
+.tweetRT
+{
+	width:16px;
+	height:16px;
+	float:right;
+	margin-right:10px;
+	background: url(../Img/icon_retweet.gif) top left;
+	cursor:pointer;
+}
+.tweetRT:hover
+{
+	background: url(../Img/icon_retweet_over.gif) top left;
+}
+.tweetReply
+{
+    width:16px;
+	height:16px;
+	float:right;
+	background: url(../Img/icon_reply.gif) top left;
+	cursor:pointer;
+	margin-right:20px;
+	margin-top:2px;
+}
+
+.tweetHistory
+{
+	float:left;
+	font-size:11px;
+	 /**48+30**/
+	padding-top:4px;
+	color : #999999;
+	width:650px;
+}
+.tweetLocation
+{
+	color : #40C11A;
+	cursor:pointer;
+}
+#TweetsBox
+{
+	margin-top:20px;
+}
+
+
+/**nearby**/
+
+.tweetDistrictSmall
+{
+	font-size:18px;
+	margin-top:15px;
+	margin-left:15px;
+	padding-bottom:10px;
+	border-bottom : #666 1px solid;
+	width:480px;
+}
+.tweetFrameSmall
+{
+	float:left;
+	padding-top:15px;
+	margin-left:15px;
+	width:480px;
+	/**height: 70px;**/
+	border-bottom : #666 1px solid;
+	cursor:auto;
+}
+.tweetFrameSmall:hover
+{
+	background : url(../Img/bg_blue.png) top left repeat;
+}
+
+
+.tweetBodySmall
+{
+	float:left;
+	margin-left:10px;
+	width:400px;
+	/**height:48px; **/
+	/**height:50px;**/
+}
+
+.tweetBodySmall a
+{
+	color:#5050D3;
+}
+
+.tweetUsersSmall
+{
+
+font-size:16px;
+
+}
+.tweetPreview
+{
+    float:left;
+    margin-top:15px;
+    margin-bottom:15px;
+    margin-left:58px;
+    border: #666 1px solid;
+    padding:5px;
+    cursor:pointer;
+}
+.tweetPreview:hover
+{
+    border: grey 1px solid;
+}
+.tweetBottomSmall
+{
+	float:left;
+	/**margin-left:10px;**/
+	margin-left:58px;
+	margin-bottom:15px;
+	width:400px;
+	height:16px;
+}
+/**Landing**/
+
+#ConnectToTwitterBtn
+{
+    background:url(/Img/connect_to_twitter.png) top left no-repeat;
+    cursor:pointer;
+    height:73px;
+    width:362px;
+    margin:auto;
+}
